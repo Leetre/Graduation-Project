@@ -1,0 +1,7 @@
+pretty_midi
+numpy
+torch
+pandas
+matplotlib
+librosa
+PyYAML
