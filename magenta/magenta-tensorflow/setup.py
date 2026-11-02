@@ -165,7 +165,7 @@ setup(
         'pylint < 2.0.0;python_version<"3"',
         # pylint 2.3.0 and astroid 2.2.0 caused spurious errors,
         # so lock them down to known good versions.
-        'pylint == 2.2.2;python_version>="3"',
+        'pylint == 4.0.9;python_version>="3"',
         'astroid == 2.0.4;python_version>="3"',
     ],
 )
